@@ -1,0 +1,16 @@
+# Downloaded dataset and pretrained YOLO weights
+/data/
+/yolo26*.pt
+
+# Ultralytics outputs
+/runs/
+
+# Jupyter and Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+/.venv/
+
+# PyCharm and macOS
+/.idea/
+.DS_Store
